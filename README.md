@@ -1,9 +1,44 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
+### AdMashable Series on Modern Edge Presented by ModernArtisan 
+
+### Powered by *EDGE.online!*, courtesy of GitHub. 
+#### GitHub- "Who's forked today?"
+
+
+> #### If you don't know Git than you don't know .git <br />[***ForkMe Here***, only on GitHub!](https://github.com/ModernArtisan)
+
+> Git is the worlds top provider and still #1 First choice as the place for those who make the internet. SourceControl is simply the beggining. <br />
+Unlock limitless potential for your creative vision. Create a Git account repository and mention @ModernEdge so you don't miss out on the greatest deals in Mktg.  Get GitHub with a special welcome pkg for your own .git! <br />
+##### Get Ready, Get Set, Get .git <br />***[GitHub.com](https://github.com)*** | ***[ModernEdge.online](https://modernedge.online)***<br /><br />
+*special rules or restrictions may apply. See more at your hosting provider. Comment and media provided by:<br />Modern Edge Mktg. "In short, we are marketing" weekly rebates and offers subject to variability. Ask your marketing agent for more information.  
+
+
+<!-- YOUTUBE:START -->
+- [Idea8🎥 Studios 🎬Weekly: Freely Join🎙️ Support Creative Productions 🎞️🎤🎧Create Your Story.](#)
+
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
+### Hi there, I'm Gavin - aka [ModernArtisan](https://modernedge.online) 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Creative Developer, Producer, & MediaHouse and Design Studio Manager!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -43,31 +78,6 @@
 <br />
 <br />
 
-
----
-
-### AdMashable Series on Modern Edge Presented by ModernArtisan Powered by *EDGE.online!*. Courtesy of GitHub. 
-#### If you don't know Git than you don't know git. ForkMe, always on GitHub. Today! "GitHub. Who's forked today?" -Worlds top provider and still #1 first place for those who make the internet. SourceControl is simply the beggining. Unlock limitless potential for your creative vision. Create a Git account repository and mention @ModernEdge from the episode you watched so you don't miss out and get the greatest deals in Mktg with a special GitHub welcome pkg for your own .git and Get Set!  Get .Git. ***[github.com](https://github.com)***
-
-
-<!-- YOUTUBE:START -->
-- [Idea8🎥 Studios 🎬Weekly: Freely Join🎙️ Support Creative Productions 🎞️🎤🎧Create Your Story.](#)
-
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
