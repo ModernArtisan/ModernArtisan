@@ -1,13 +1,14 @@
-### Powered by *EDGE.online!*, courtesy of GitHub. 
-#### GitHub- "Who's forked today?"
-
-> #### If you don't know Git than you don't know .git <br />[***ForkMe Here***, only on GitHub!](https://github.com/ModernArtisan)
+![Big Top](Crop-Top.png) 
+## Powered by *EDGE.online!*, courtesy of GitHub.  
+#### GitHub- "Who's forked today?" 
+> #### If you don't know Git than you don't know .git <br />[***ForkMe Here***, only on GitHub!](https://github.com/ModernArtisan) |  |
 
 > Git is the worlds top provider and still #1 First choice as the place for those who make the internet. SourceControl is simply the beggining. <br />
 Unlock limitless potential for your creative vision. Create a Git account repository and mention @ModernEdge so you don't miss out on the greatest deals in Mktg.  Get GitHub with a special welcome pkg for your own .git! <br />
 ##### Get Ready, Get Set, Get .git <br />***[GitHub.com](https://github.com)*** | ***[ModernEdge.online](https://modernedge.online)***<br /><br />
 *special rules or restrictions may apply. See more at your hosting provider. Comment and media provided by:<br />Modern Edge Mktg. "In short, we are marketing" weekly rebates and offers subject to variability. Ask your marketing agent for more information.  
 
+![Change is coming](ChangeComing.png) 
 
 <!-- YOUTUBE:START -->
 - [Idea8🎥 Studios 🎬Weekly: Freely Join🎙️ Support Creative Productions 🎞️🎤🎧Create Your Story.](#)
@@ -16,24 +17,9 @@ Unlock limitless potential for your creative vision. Create a Git account reposi
 
 ---
 
-### 📕 Latest Blog Posts
+# Hi there, I'm Gavin - aka [ModernArtisan](https://modernedge.online) 👋 
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-### Hi there, I'm Gavin - aka [ModernArtisan](https://modernedge.online) 👋 
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![buildbanner](buildbanner.png)
 
 ## I'm a Creative Developer, Producer, & MediaHouse and Design Studio Manager!!
 
@@ -42,16 +28,6 @@ Unlock limitless potential for your creative vision. Create a Git account reposi
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Connect with me:
-
-[<img align="left" alt="modernedge.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ModernArtisan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ModernArtisan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ModernArtisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
-[<img align="left" alt="ModernArtisan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -75,20 +51,33 @@ Unlock limitless potential for your creative vision. Create a Git account reposi
 <br />
 <br />
 
+--- 
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com) 
+
+![Directors Chair](Directors-Chair.png)
+
+### Connect with me:
+
+[<img align="left" alt="modernedge.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ModernArtisan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ModernArtisan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ModernArtisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
+[<img align="left" alt="ModernArtisan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
- 
 =======
 ### AdMashable Series on Modern Edge Presented by ModernArtisan
-
-Powered by *EDGE.online!*, courtesy of GitHub. 
-
-
-> #### If you don't know Git than you don't know .git <br />[***ForkMe Here***, only on GitHub!](https://github.com/ModernArtisan) <br />
-GitHub- "Who's forked today?"
-
--Worlds top provider and still #1 first place for those who make the internet. SourceControl is simply the beggining. Unlock limitless potential for your creative vision. Create a Git account repository and mention @ModernEdge from the episode you watched so you don't miss out and get the greatest deals in Mktg with a special GitHub welcome pkg for your own .git! Get Ready, Get Set!  Get .git <br /> ***[github.com](https://github.com)*** | ***[ModernEdge.online](https://modernedge.online)***
-
 
 <!-- YOUTUBE:START -->
 - [Bubblegum Gary | MaxTMashup [ModernArtisan]](https://www.youtube.com/watch?v=06wkQMgeu0k)
@@ -98,10 +87,18 @@ GitHub- "Who's forked today?"
 - [38-AJG Semi Always Automatic](https://www.youtube.com/watch?v=3Wm9Fbg3Zuw)
 <!-- YOUTUBE:END -->
 
+Powered by *EDGE.online!*, courtesy of GitHub. 
+
+> #### If you don't know Git than you don't know .git <br />[***ForkMe Here***, only on GitHub!](https://github.com/ModernArtisan) <br />
+GitHub- "Who's forked today?"
+
+| -Worlds top provider and still #1 first place for those who make the internet. |  |
+| :--- | :---: |
+| SourceControl is simply the beggining. Unlock limitless potential for your creative vision. Create a Git account repository and mention @ModernEdge from the episode you watched so you don't miss out and get the greatest deals in Mktg with a special GitHub welcome pkg for your own .git! Get Ready, Get Set!  Get .git <br /> ***[github.com](https://github.com)*** \| ***[ModernEdge.online](https://modernedge.online)*** | ![gitbutton](gitbutton.png) |
+
 ---
 
-### 📕 On Blogger
-
+### 📕 ![MoMktg](Mo-Mktg.png) | On Blogger
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -113,6 +110,8 @@ GitHub- "Who's forked today?"
 ➡️ [more blog posts...](https://modernedge.online/posts)
 
 ---
+
+![digital banner](Marketing-banner.png)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
