@@ -80,6 +80,35 @@ Unlock limitless potential for your creative vision. Create a Git account reposi
 
 
 ---
+ 
+=======
+### AdMashable Series on Modern Edge Presented by ModernArtisan Powered by *EDGE.online!*. Courtesy of GitHub. 
+#### If you don't know Git than you don't know git. ForkMe, always on GitHub. Today! "GitHub. Who's forked today?" -Worlds top provider and still #1 first place for those who make the internet. SourceControl is simply the beggining. Unlock limitless potential for your creative vision. Create a Git account repository and mention @ModernEdge from the episode you watched so you don't miss out and get the greatest deals in Mktg with a special GitHub welcome pkg for your own .git and Get Set!  Get .Git. ***[github.com](https://github.com)***
+
+
+<!-- YOUTUBE:START -->
+- [Bubblegum Gary | MaxTMashup [ModernArtisan]](https://www.youtube.com/watch?v=06wkQMgeu0k)
+- [Never Fear Handywork](https://www.youtube.com/watch?v=KHkCMDj81Ec)
+- [38-AJG Semi Always Automatic](https://www.youtube.com/watch?v=9LD826Fqu8c)
+- [Iamproof](https://www.youtube.com/watch?v=EHukeKXy9oU)
+- [38-AJG Semi Always Automatic](https://www.youtube.com/watch?v=3Wm9Fbg3Zuw)
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 On Blogger
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://modernedge.online/posts)
+
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -97,17 +126,14 @@ Unlock limitless potential for your creative vision. Create a Git account reposi
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="ModernArtisan's GitHub Stats" src="https://github-readme-stats.modernartisan.vercel.app/api?username=ModernArtisan&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://modernedge.online
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[youtube]: https://youtube.com/channel/UCgODHZ6Y7zvN68_RDBVWqNA
+[instagram]: https://instagram.com/gavin14all
+[webdevprofile]: https://developers.google.com/profile/u/118120163720721134905?utm_source=developers.google.com
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
