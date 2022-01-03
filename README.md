@@ -43,19 +43,17 @@
 <br />
 <br />
 
+
 ---
 
-### 📺 Latest YouTube Videos
+### AdMashable Series on Modern Edge Presented by ModernArtisan Powered by *EDGE.online!*. Courtesy of GitHub. 
+#### If you don't know Git than you don't know git. ForkMe, always on GitHub. Today! "GitHub. Who's forked today?" -Worlds top provider and still #1 first place for those who make the internet. SourceControl is simply the beggining. Unlock limitless potential for your creative vision. Create a Git account repository and mention @ModernEdge from the episode you watched so you don't miss out and get the greatest deals in Mktg with a special GitHub welcome pkg for your own .git and Get Set!  Get .Git. ***[github.com](https://github.com)***
+
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
-- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
-- [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
-<!-- YOUTUBE:END -->
+- [Idea8🎥 Studios 🎬Weekly: Freely Join🎙️ Support Creative Productions 🎞️🎤🎧Create Your Story.](#)
 
-➡️ [more videos...](https://youtube.com/codestackr)
+<!-- YOUTUBE:END -->
 
 ---
 
