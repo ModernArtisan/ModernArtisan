@@ -11,8 +11,11 @@ Unlock limitless potential for your creative vision. Create a Git account reposi
 ![Change is coming](ChangeComing.png) 
 
 <!-- YOUTUBE:START -->
-- [Idea8🎥 Studios 🎬Weekly: Freely Join🎙️ Support Creative Productions 🎞️🎤🎧Create Your Story.](#)
-
+- [Bubblegum Gary | MaxTMashup [ModernArtisan]](https://www.youtube.com/watch?v=06wkQMgeu0k)
+- [Never Fear Handywork](https://www.youtube.com/watch?v=KHkCMDj81Ec)
+- [38-AJG Semi Always Automatic](https://www.youtube.com/watch?v=9LD826Fqu8c)
+- [Iamproof](https://www.youtube.com/watch?v=EHukeKXy9oU)
+- [38-AJG Semi Always Automatic](https://www.youtube.com/watch?v=3Wm9Fbg3Zuw)
 <!-- YOUTUBE:END -->
 
 ---
