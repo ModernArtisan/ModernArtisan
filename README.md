@@ -139,5 +139,5 @@ GitHub- "Who's forked today?"
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/channel/UCgODHZ6Y7zvN68_RDBVWqNA
 [instagram]: https://instagram.com/gavin14all
-[webdevprofile]: https://developers.google.com/profile/u/118120163720721134905?utm_source=developers.google.com)
+[webdevprofile]: https://developers.google.com/profile/u/118120163720721134905?utm_source=developers.google.com
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
