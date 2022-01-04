@@ -12,10 +12,8 @@ Unlock limitless potential for your creative vision. Create a Git account reposi
 
 ---
 
-# Hi there, I'm Gavin - aka [ModernArtisan](https://modernedge.online) 👋 
-
+# Hi I'm Gavin - aka [ModernArtisan](https://modernedge.online) 👋 
 ![buildbanner](buildbanner.png)
-
 ## I'm a Creative Developer, Producer, & MediaHouse and Design Studio Manager!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
