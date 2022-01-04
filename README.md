@@ -1,11 +1,11 @@
 ![Big Top](Crop-Top.png) 
 ## Powered by *EDGE.online!*, courtesy of GitHub.  
 #### GitHub- "Who's forked today?" 
-> #### If you don't know Git than you don't know .git <br />[***ForkMe Here***, only on GitHub!](https://github.com/ModernArtisan) |  |
+> #### If you don't know Git than you don't know .git <br />[***ForkMe Here***, only on GitHub!](https://github.com/ModernArtisan)  
 
 > Git is the worlds top provider and still #1 First choice as the place for those who make the internet. SourceControl is simply the beggining. <br />
 Unlock limitless potential for your creative vision. Create a Git account repository and mention @ModernEdge so you don't miss out on the greatest deals in Mktg.  Get GitHub with a special welcome pkg for your own .git! <br />
-##### Get Ready, Get Set, Get .git <br />***[GitHub.com](https://github.com)*** | ***[ModernEdge.online](https://modernedge.online)***<br /><br />
+##### Get Ready, Get Set .git <br />***[GitHub.com](https://github.com)*** | ***[ModernEdge.online](https://modernedge.online)***<br /><br />
 *special rules or restrictions may apply. See more at your hosting provider. Comment and media provided by:<br />Modern Edge Mktg. "In short, we are marketing" weekly rebates and offers subject to variability. Ask your marketing agent for more information.  
 
 ![Change is coming](ChangeComing.png) 
@@ -125,8 +125,7 @@ GitHub- "Who's forked today?"
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  
+<img align="left" alt="ModernArtisan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ModernArtisan&show_icons=true&hide_border=true" />
 
 </details>
 
