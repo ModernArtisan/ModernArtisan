@@ -82,6 +82,10 @@ Unlock limitless potential for your creative vision. Create a Git account reposi
 
 Powered by *EDGE.online!*, courtesy of GitHub. 
 
+---
+
+<img align="left" alt="ModernArtisan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ModernArtisan&show_icons=true&hide_border=true" />
+
 > #### If you don't know Git than you don't know .git <br />[***ForkMe Here***, only on GitHub!](https://github.com/ModernArtisan) <br />
 GitHub- "Who's forked today?"
 
@@ -122,7 +126,7 @@ GitHub- "Who's forked today?"
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ModernArtisan's GitHub Stats" src="https://github-readme-stats.modernartisan.vercel.app/api?username=ModernArtisan&show_icons=true&hide_border=true" />
+  
 
 </details>
 
